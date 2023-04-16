@@ -9,7 +9,7 @@ To begin using this project clone the repo using the instructions from below. On
 
 ` git init `
 
-` git clone https://github.com/sglasher/MSAAI500.git`
+` git clone https://github.com/sglasher/FlightDelayPrediction.git`
 
 ` pip install airportsdata `
 ` pip install meteostat `
